@@ -1,0 +1,18 @@
+:root {
+    --primary-color: #050505;
+    --secondary-color: rgb(23,134,78);
+    --thirdary-color: #686464;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Body */
+
+body {
+    background-color: var(--thirdary-color);
+    font-style: italic, helvetica, arial ;
+}
