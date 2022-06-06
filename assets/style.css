@@ -69,9 +69,12 @@ header nav ul li a {
 
 /* run buddy image*/
 
-.run-buddy {
+#run-buddy {
     overflow: hidden;
     max-width: 400px;
     max-height: 200px;
     position: 90%;
 }
+
+/*Project On*/
+
